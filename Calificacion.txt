@@ -1,0 +1,15 @@
+Detalle Calificacion   8.75/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 5 - 2 = 3 = (3, 2, 0) - 2 Por no usar la estructura de datos requerida.
+Errores Manejados o no tiene en consola (2 Puntos): 1.5 Puntos. No tiene errores graves en consola pero no ha validado campos en el formulario xq no tiene esa pagina.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.5 Puntos. No tiene funciones adicionales a las que hemos hecho en clase. No hay mucho que calificar aqui.
+Buen Uso de Jquery y Galeria (2.5 Puntos): 1.75 Puntos. La galeria funciona pero falta mejorar la tecnica de lightbox.
+Uso de los media Queries (2.5 Puntos): 0 Puntos. No habia media queries en ningun lado.
+Comentarios (1 Punto):  0 Puntos. No tiene comentarios basicos.
+Pagina con buena estetica (1 Punto): 1 Punto. Su pagina se ve bien.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 8.75 
+
+Comentarios Profesor
+Casi no tenian codigo JS.
+Ni intentaron hacer el formulario.
+Deja mucho que desear este examen.
